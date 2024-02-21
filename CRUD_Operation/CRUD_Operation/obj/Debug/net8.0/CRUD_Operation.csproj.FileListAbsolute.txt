@@ -1,0 +1,14 @@
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\bin\Debug\net8.0\CRUD_Operation.exe
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\bin\Debug\net8.0\CRUD_Operation.deps.json
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\bin\Debug\net8.0\CRUD_Operation.runtimeconfig.json
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\bin\Debug\net8.0\CRUD_Operation.dll
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\bin\Debug\net8.0\CRUD_Operation.pdb
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.AssemblyInfoInputs.cache
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.AssemblyInfo.cs
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.dll
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\refint\CRUD_Operation.dll
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.pdb
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\CRUD_Operation.genruntimeconfig.cache
+C:\Users\kaan_\OneDrive\Masaüstü\Kodlamaioders\CRUD_Operation\CRUD_Operation\obj\Debug\net8.0\ref\CRUD_Operation.dll
